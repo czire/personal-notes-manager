@@ -1,4 +1,4 @@
-package com.example.personalnotesmanager;
+package com.example.personalnotesmanager.activities;
 
 import android.os.Bundle;
 
